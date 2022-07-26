@@ -1,0 +1,30 @@
+#introduction {
+    color:brown;
+    background-color:black;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;
+}
+#my-hair-color {
+    color:aqua;
+    background-color:aquamarine;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;
+}
+#my-favourite-color{background-color:red;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;
+}
+#mom{background-color:yellow;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;}
+
+
+
